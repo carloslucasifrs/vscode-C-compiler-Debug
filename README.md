@@ -9,6 +9,12 @@
 git clone (https://github.com/carloslucasifrs/vscode-C-compiler-Debug)
 ```
 
+## Abrindo Projeto no Visual Studio Code
+Terminal do linux na pasta onde encontra-se o Projeto
+```shell
+carlos@note:~/Documentos/Code/ifrs/ED1/vscode-C-compiler-Debug$ code .
+```
+
 ## **PADRÃO**
 Instalar as extenções recomendas em .vscode/extension.json
 
