@@ -1,0 +1,6 @@
+#ifndef BIBLIOTECA_H_INCLUDED
+#define BIBLIOTECA_H_INCLUDED
+
+void teste();
+
+#endif // BIBLIOTECA_H_INCLUDED

@@ -1,0 +1,11 @@
+{
+    "code-runner.executorMap": {
+        "c": "cd $dir && rm -fr *.gch && rm -fr a.out && gcc *.c -g",
+    },
+    "code-runner.runInTerminal": true,
+    "[c]": {
+        "editor.wordBasedSuggestions": false,
+        "editor.suggest.insertMode": "replace",
+        "editor.semanticHighlighting.enabled": true
+    }
+}
