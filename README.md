@@ -3,10 +3,10 @@
 - Vscode 1.51.0
 
 ## **Projeto**
-[Projeto no Github](https://github.com/carloslucasifrs/vscode-C-compiler-Debug "Projeto no Github")
+[Projeto no Github]https://github.com/carloslucasifrs/vscode-C-compiler-Debug "Projeto no Github"
 
 ```shell
-git clone (https://github.com/carloslucasifrs/vscode-C-compiler-Debug)
+git clone https://github.com/carloslucasifrs/vscode-C-compiler-Debug
 ```
 
 ## Abrindo Projeto no Visual Studio Code
@@ -22,4 +22,4 @@ Instalar as extenções recomendas em .vscode/extension.json
 No arquivo main.c pressionar **CTRL + ALT + N**
 
 ## **Debug**
-Pressionar F5
+Pressionar **F5**
