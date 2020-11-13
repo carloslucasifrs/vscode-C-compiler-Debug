@@ -11,5 +11,6 @@
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "BasedOnStyle": "Google",
-    "IndentWidth": 4
+    "IndentWidth": 4,
+    "editor.wordWrap": "on"
 }
