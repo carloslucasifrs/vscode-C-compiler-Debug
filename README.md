@@ -19,7 +19,7 @@ carlos@note:~/Documentos/Code/ifrs/ED1/vscode-C-compiler-Debug$ code .
 Instalar as extenções recomendas em .vscode/extension.json
 
 ## **Rodar Projeto**
-No arquivo main.c pressionar **CTRL + ALT + N**
+No arquivo main.c pressionar **F5**
 
 ## **Debug**
 Pressionar **F5**
