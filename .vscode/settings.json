@@ -1,16 +1,14 @@
 {
-    "code-runner.executorMap": {
-        "c": "cd $dir && rm -fr *.gch && rm -fr a.out &&  clear && gcc *.c -g",
-    },
-    "code-runner.runInTerminal": true,
-    "[c]": {
-        "editor.wordBasedSuggestions": false,
-        "editor.suggest.insertMode": "replace",
-        "editor.semanticHighlighting.enabled": true
-    },
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
-    "BasedOnStyle": "Google",
-    "IndentWidth": 4,
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.associations": {
+        "vector": "c",
+        "stdlib.h": "c",
+        "biblio.h": "c",
+        "biblioteca.h": "c"
+    },
+    "debug.console.closeOnEnd": true,
 }
