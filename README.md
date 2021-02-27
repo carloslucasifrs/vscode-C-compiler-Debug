@@ -2,6 +2,10 @@
 - Ubuntu 18.04 padrão 
 - Vscode 1.51.0
 
+
+## Compilador C no Ubuntu
+sudo apt install gcc
+
 ## **Projeto**
 [Projeto no Github] https://github.com/carloslucasifrs/vscode-C-compiler-Debug "Projeto no Github"
 
