@@ -4,7 +4,9 @@
 
 
 ## Compilador C no Ubuntu
+```shell
 sudo apt install gcc
+```
 
 ## **Projeto**
 [Projeto no Github] https://github.com/carloslucasifrs/vscode-C-compiler-Debug "Projeto no Github"
