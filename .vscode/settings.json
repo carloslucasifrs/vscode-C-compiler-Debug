@@ -1,0 +1,14 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.associations": {
+        "vector": "c",
+        "stdlib.h": "c",
+        "biblio.h": "c",
+        "biblioteca.h": "c"
+    },
+    "debug.console.closeOnEnd": true,
+}
